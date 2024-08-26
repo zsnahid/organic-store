@@ -8,7 +8,11 @@ module.exports = {
             },
             fontFamily: {
                 'poppins': 'Poppins',
-            }
+            },
+            backgroundImage:{
+                'tomato': "url('./images/call.jpg')",
+                'leaf': "url('./images/leaf01.png')",
+            },
         },
     },
     plugins: [],
